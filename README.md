@@ -1,5 +1,4 @@
 # hello-world
-Setup Repository
 
 Hi those of you reading this :)
 
